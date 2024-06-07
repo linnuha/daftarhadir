@@ -1,12 +1,12 @@
 // Konfigurasi Firebase
 var firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_AUTH_DOMAIN",
+    apiKey: "AIzaSyAPFHFyP0V6CYZWpWrPUpzJSXXyB6KEyaE",
+    authDomain: "daftarhadir-e4d51.firebaseapp.com",
     databaseURL: "YOUR_DATABASE_URL",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_STORAGE_BUCKET",
-    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-    appId: "YOUR_APP_ID"
+    projectId: "daftarhadir-e4d51",
+    storageBucket: "daftarhadir-e4d51.appspot.com",
+    messagingSenderId: "189970254216",
+    appId: "1:189970254216:web:062ce3aad8c18dbdb0123d"
 };
 firebase.initializeApp(firebaseConfig);
 
